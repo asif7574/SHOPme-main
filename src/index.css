@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+html{
+    background-color: rgb(241, 254, 254);
+    background-image: url("./assets/white-brick-wall-1920x1080.png")
+}
+@tailwind utilities;
